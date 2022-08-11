@@ -103,3 +103,4 @@ resource "aws_subnet" "private_data_subnet_az2" {
         name = "private data subnet az2"
     }
 }
+# OS is linux
